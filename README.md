@@ -1,4 +1,6 @@
 # EX01 Developing a Simple Webserver
+## name: sugeshan
+## reg.no: 212224040337
 ## Date:27.03.2025
 
 ## AIM:
